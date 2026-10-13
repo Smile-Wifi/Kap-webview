@@ -1,0 +1,6 @@
+{
+  "name": "nitron-webview-builder",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"dev": "vercel dev"}
+}
